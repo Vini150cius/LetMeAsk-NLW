@@ -3,7 +3,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/Vini150cius/LetMeAsk-NLW?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/Vini150cius/LetMeAsk-NLW?style=for-the-badge)
 
-<img src="./LogoLetMeAsk-NLW.png" alt="Logo do projeto"\>
+<img src="./LogoLetMeAsk-NLW.png" alt="Logo do projeto">
 
 > Projeto de uma aplicação que fornece respostas de acordo com o que for dito em um áudio ou vídeo.
 
